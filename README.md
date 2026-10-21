@@ -41,3 +41,7 @@ The **Nexus Anima** project creates an innovative, 5-hectare retreat and recover
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj)
+
